@@ -43,3 +43,5 @@ A fully functional e-commerce web application built from scratch using PHP and M
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sargis_builds)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vardanyansargis13@gmail.com)
+
+**Email:** vardanyansargis13@gmail.com
